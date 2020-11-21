@@ -1,0 +1,24 @@
+{
+  "name": "inventoryapp",
+  "version": "1.0.0",
+  "description": "app that connects to mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./bin/www"
+  },
+  "author": "Thomas Rozema",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "^4.17.1",
+    "jade": "~1.11.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.11",
+    "morgan": "~1.9.0",
+    "nodemon": "^2.0.4",
+    "serve-favicon": "~2.4.5"
+  }
+}
