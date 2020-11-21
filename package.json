@@ -5,9 +5,9 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "react start",
-    "build" : "react build",
-    "now-build" : "react build"
+    "start": "next start",
+    "build" : "next build",
+    "now-build" : "next build"
   },
   "author": "Thomas Rozema",
   "license": "ISC",
