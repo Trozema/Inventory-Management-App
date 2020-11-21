@@ -109,18 +109,6 @@ app.use(function(err, req, res, next) {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 //DB Connection//
 
 const uri = 'mongodb+srv://Thomas:Trian1123@cluster0.jqibo.mongodb.net/InventoryDB?retryWrites=true&w=majority';
