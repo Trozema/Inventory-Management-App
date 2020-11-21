@@ -1,0 +1,28 @@
+Web Application Documents for Inventory Management App
+System Architecture:
+The App will be designed using Create React App (CRA) that will connect to a MongoDB database. I will use a combination of Bootstrap and CSS styling to style the App. I have more experience working with react making it a more comfortable choice.
+
+System Requirements:
+
+Functional Requirements
+•	The User is required to login to the app before getting access.
+•	The User must be able to change the user responsible for each inventory item if they are admin.
+•	The user must be able to filter inventory items.
+•	The user must be able to add new inventory item.
+•	The user must be able to delete an inventory item.
+Non-Functional Requirements  
+•	The App should display all the users options in a dropdown menu
+•	The App should be highly responsive and secure.
+•	The App should be reliable and available at all times.
+•	The App should be mobile friendly (compatible with any device). 
+User Stories:
+
+Users 	Use Cases	Brief Description
+User 1	User Login	The user enters personal data to gain access to the web app.
+User 2	User adds filter	The user uses the filter to view a specific item category within the app.
+User 3	User Adds Item	The user selects the add item page. The user then enters details of the new item.
+User 4	User Deletes Item	The user selects the delete item page. The user then enters the item name. The item is then removed.
+User 5	User Edits Item	The user selects the edit stock item page. The user then enters the existing task name followed by the new item name.
+
+Unique Feature:
+The App is designed to be used as an inventory management system for a small business. It features a simple design that will allow businesses to manage stock easier. The app is also secure making it fairly unique compared to alternatives. Security was key feature in designing the App.

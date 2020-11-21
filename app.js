@@ -122,6 +122,7 @@ if (process.env.NODE_ENV === 'production') {
 
 
 
+
 //DB Connection//
 
 const uri = 'mongodb+srv://Thomas:Trian1123@cluster0.jqibo.mongodb.net/InventoryDB?retryWrites=true&w=majority';
