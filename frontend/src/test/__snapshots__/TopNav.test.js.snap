@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders successfully 1`] = `
+<nav
+  className="navbar navbar-expand-lg navbar-dark bg-dark"
+>
+  <a
+    className="navbar-brand"
+    href="/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ"
+  >
+    Inventory Management App
+  </a>
+  <button
+    aria-controls="responsive-navbar-nav"
+    aria-label="Toggle navigation"
+    className="navbar-toggler collapsed"
+    onClick={[Function]}
+    type="button"
+  >
+    <span
+      className="navbar-toggler-icon"
+    />
+  </button>
+  <div
+    aria-expanded={null}
+    className="navbar-collapse collapse"
+    id="responsive-navbar-nav"
+  >
+    <div
+      className="mr-auto navbar-nav"
+      onKeyDown={[Function]}
+    >
+      <a
+        className="nav-link"
+        data-rb-event-key="/Add"
+        href="/Add"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+      >
+        Add Stock Item
+      </a>
+      <a
+        className="nav-link"
+        data-rb-event-key="/Edit"
+        href="/Edit"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+      >
+        Edit Stock Item
+      </a>
+      <a
+        className="nav-link"
+        data-rb-event-key="/Replace"
+        href="/Replace"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+      >
+        Replace Item Name
+      </a>
+      <a
+        className="nav-link"
+        data-rb-event-key="/Delete"
+        href="/Delete"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+      >
+        Delete Item
+      </a>
+      <a
+        className="nav-link"
+        data-rb-event-key="/Filter"
+        href="/Filter"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+      >
+        Low Stock Items
+      </a>
+    </div>
+  </div>
+</nav>
+`;
